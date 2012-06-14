@@ -1,0 +1,2 @@
+== jquery vruler
+  A plugin to create vertical rulers.
