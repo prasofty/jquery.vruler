@@ -1,2 +1,8 @@
 == jquery vruler
   A plugin to create vertical rulers.
+  
+  
+== Usage
+  
+  $('.selector').vruler();
+  $('.selector').vruler({no_of_rulers: 2, color: '#008C84', width: 3});
